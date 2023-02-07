@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I completed the Rithm School full-stack web development program
-🏥 I previously worked in the healthcare and pharmaceutical industries
-👓 I'm currently searching for my next opportunity as a software engineer
+- 🎓 I completed the Rithm School full-stack web development program
+- 🏥 I previously worked in the healthcare and pharmaceutical industries
+- 👓 I'm currently searching for my next opportunity as a software engineer
 
