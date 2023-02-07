@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Philip
 
 <!--
 **pdimaano/pdimaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I completed the Rithm School full-stack web development program
+🏥 I previously worked in the healthcare and pharmaceutical industries
+👓 I'm currently searching for my next opportunity as a software engineer
+
