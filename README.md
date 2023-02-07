@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 🏥 I previously worked in the healthcare and pharmaceutical industries
 - 👓 I'm currently searching for my next opportunity as a software engineer
 
+---
+
+### Languages:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
