@@ -1,9 +1,9 @@
-### Hi, I'm Philip Dimaano. Welcome to my Github!
+### Hi, my name is Philip Dimaano. Welcome to my Github!
 
-- 🎓 I completed the Rithm School full-stack web development program
-- 🙌 I currently volunteer as a developer for Hack for LA, a Code for America brigade
-- 🏥 I previously worked different jobs in the healthcare and pharmaceutical industries
-- 👓 I'm currently searching for my next full-time opportunity as a software engineer
+- 📖 I completed the Rithm School full-stack web development program
+- 🏥 I previously worked in the healthcare and pharmaceutical industries
+- 🙌 I currently volunteer as a developer for Hack for LA which is part of Code for America
+- 👓 I am currently searching for my next full-time opportunity to work in tech
 
 ---
 
