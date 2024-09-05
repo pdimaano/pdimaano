@@ -1,9 +1,8 @@
 ### Hi, my name is Philip Dimaano. Welcome to my Github!
 
+- 🏈 I currently work as a data analyst for Pro Football Focus
 - 📖 I completed the Rithm School full-stack web development program
 - 🏥 I previously worked in the healthcare and pharmaceutical industries
-- 🙌 I currently volunteer as a developer for Hack for LA which is part of Code for America
-- 👓 I am currently searching for my next full-time opportunity to work in tech
 
 ---
 
